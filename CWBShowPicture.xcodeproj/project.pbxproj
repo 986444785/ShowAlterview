@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1333F1531B9D1B3700E3E920 /* restaurant_food_info_dialog_close@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1333F1521B9D1B3700E3E920 /* restaurant_food_info_dialog_close@2x.png */; };
+		1333F1551B9D1B9C00E3E920 /* 15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1333F1541B9D1B9C00E3E920 /* 15.jpg */; };
+		1333F1591B9D1DE200E3E920 /* icon_food_decrease_small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1333F1561B9D1DE200E3E920 /* icon_food_decrease_small@2x.png */; };
+		1333F15A1B9D1DE200E3E920 /* icon_food_increase_small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1333F1571B9D1DE200E3E920 /* icon_food_increase_small@2x.png */; };
+		1333F15B1B9D1DE200E3E920 /* icon_order_cancel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1333F1581B9D1DE200E3E920 /* icon_order_cancel@2x.png */; };
+		1333F15D1B9D28B600E3E920 /* black_mengban_img.png in Resources */ = {isa = PBXBuildFile; fileRef = 1333F15C1B9D28B600E3E920 /* black_mengban_img.png */; };
 		13EE7B431B9C6E2000FAC626 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13EE7B421B9C6E2000FAC626 /* main.m */; };
 		13EE7B461B9C6E2000FAC626 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13EE7B451B9C6E2000FAC626 /* AppDelegate.m */; };
 		13EE7B491B9C6E2000FAC626 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 13EE7B481B9C6E2000FAC626 /* ViewController.m */; };
@@ -14,6 +20,7 @@
 		13EE7B4E1B9C6E2000FAC626 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13EE7B4D1B9C6E2000FAC626 /* Images.xcassets */; };
 		13EE7B511B9C6E2000FAC626 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13EE7B4F1B9C6E2000FAC626 /* LaunchScreen.xib */; };
 		13EE7B5D1B9C6E2000FAC626 /* CWBShowPictureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 13EE7B5C1B9C6E2000FAC626 /* CWBShowPictureTests.m */; };
+		13EE7B681B9C6E3C00FAC626 /* CWBShowPicture.m in Sources */ = {isa = PBXBuildFile; fileRef = 13EE7B671B9C6E3C00FAC626 /* CWBShowPicture.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +34,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1333F1521B9D1B3700E3E920 /* restaurant_food_info_dialog_close@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "restaurant_food_info_dialog_close@2x.png"; sourceTree = "<group>"; };
+		1333F1541B9D1B9C00E3E920 /* 15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpg; sourceTree = "<group>"; };
+		1333F1561B9D1DE200E3E920 /* icon_food_decrease_small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_food_decrease_small@2x.png"; sourceTree = "<group>"; };
+		1333F1571B9D1DE200E3E920 /* icon_food_increase_small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_food_increase_small@2x.png"; sourceTree = "<group>"; };
+		1333F1581B9D1DE200E3E920 /* icon_order_cancel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_order_cancel@2x.png"; sourceTree = "<group>"; };
+		1333F15C1B9D28B600E3E920 /* black_mengban_img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = black_mengban_img.png; sourceTree = "<group>"; };
 		13EE7B3D1B9C6E2000FAC626 /* CWBShowPicture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CWBShowPicture.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13EE7B411B9C6E2000FAC626 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		13EE7B421B9C6E2000FAC626 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +53,8 @@
 		13EE7B561B9C6E2000FAC626 /* CWBShowPictureTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CWBShowPictureTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13EE7B5B1B9C6E2000FAC626 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		13EE7B5C1B9C6E2000FAC626 /* CWBShowPictureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CWBShowPictureTests.m; sourceTree = "<group>"; };
+		13EE7B661B9C6E3C00FAC626 /* CWBShowPicture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWBShowPicture.h; sourceTree = "<group>"; };
+		13EE7B671B9C6E3C00FAC626 /* CWBShowPicture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWBShowPicture.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +100,15 @@
 				13EE7B451B9C6E2000FAC626 /* AppDelegate.m */,
 				13EE7B471B9C6E2000FAC626 /* ViewController.h */,
 				13EE7B481B9C6E2000FAC626 /* ViewController.m */,
+				13EE7B661B9C6E3C00FAC626 /* CWBShowPicture.h */,
+				13EE7B671B9C6E3C00FAC626 /* CWBShowPicture.m */,
 				13EE7B4A1B9C6E2000FAC626 /* Main.storyboard */,
+				1333F1521B9D1B3700E3E920 /* restaurant_food_info_dialog_close@2x.png */,
+				1333F15C1B9D28B600E3E920 /* black_mengban_img.png */,
+				1333F1541B9D1B9C00E3E920 /* 15.jpg */,
+				1333F1561B9D1DE200E3E920 /* icon_food_decrease_small@2x.png */,
+				1333F1571B9D1DE200E3E920 /* icon_food_increase_small@2x.png */,
+				1333F1581B9D1DE200E3E920 /* icon_order_cancel@2x.png */,
 				13EE7B4D1B9C6E2000FAC626 /* Images.xcassets */,
 				13EE7B4F1B9C6E2000FAC626 /* LaunchScreen.xib */,
 				13EE7B401B9C6E2000FAC626 /* Supporting Files */,
@@ -199,9 +222,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1333F1551B9D1B9C00E3E920 /* 15.jpg in Resources */,
+				1333F1531B9D1B3700E3E920 /* restaurant_food_info_dialog_close@2x.png in Resources */,
 				13EE7B4C1B9C6E2000FAC626 /* Main.storyboard in Resources */,
+				1333F15D1B9D28B600E3E920 /* black_mengban_img.png in Resources */,
 				13EE7B511B9C6E2000FAC626 /* LaunchScreen.xib in Resources */,
 				13EE7B4E1B9C6E2000FAC626 /* Images.xcassets in Resources */,
+				1333F15A1B9D1DE200E3E920 /* icon_food_increase_small@2x.png in Resources */,
+				1333F15B1B9D1DE200E3E920 /* icon_order_cancel@2x.png in Resources */,
+				1333F1591B9D1DE200E3E920 /* icon_food_decrease_small@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,6 +248,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				13EE7B681B9C6E3C00FAC626 /* CWBShowPicture.m in Sources */,
 				13EE7B491B9C6E2000FAC626 /* ViewController.m in Sources */,
 				13EE7B461B9C6E2000FAC626 /* AppDelegate.m in Sources */,
 				13EE7B431B9C6E2000FAC626 /* main.m in Sources */,
@@ -418,6 +448,7 @@
 				13EE7B621B9C6E2000FAC626 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		13EE7B631B9C6E2000FAC626 /* Build configuration list for PBXNativeTarget "CWBShowPictureTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +457,7 @@
 				13EE7B651B9C6E2000FAC626 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
